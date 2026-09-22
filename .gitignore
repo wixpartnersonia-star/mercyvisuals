@@ -22,3 +22,13 @@ last_step.json
 /campus-animation.mp4
 /CT-Production.mp4
 /founder-mercy.jpeg
+
+# Legacy assets
+images/about/
+images/menu/
+images/hero/hero-*
+js/cart.js
+WEBSITE/CT*.mp4
+WEBSITE/PD Animation Redesign.mp4
+WEBSITE/Video A.mp4
+WEBSITE/WhatsApp Image*.jpeg
