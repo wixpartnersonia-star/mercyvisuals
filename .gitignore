@@ -1,0 +1,24 @@
+# OS & Editor files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.idea/
+.vscode/
+
+# Local server & prompt scratch files
+*.log
+prompt_extracted.txt
+prompt_full.txt
+last_step.json
+
+# Exclude duplicate raw root media files (active assets are in WEBSITE/ folder)
+/CT检查.mp4
+/PD Animation Redesign.mp4
+/Video A.mp4
+/WhatsApp Image 2026-09-21 at 2.44.15 PM.jpeg
+/juicy-character.mp4
+/campus-animation.mp4
+/CT-Production.mp4
+/founder-mercy.jpeg
